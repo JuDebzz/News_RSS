@@ -1,12 +1,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <title>Quantum Computing News</title>
-<link>http://example.com/rss</link>
+<link>https://raw.githubusercontent.com/JuDebzz/News_RSS/main/RSS_V2</link>
 <description>Latest news and updates on quantum computing.</description>
-<atom:link href="http://example.com/rss" rel="self"/>
+<atom:link href="https://raw.githubusercontent.com/JuDebzz/News_RSS/main/RSS_V2" rel="self"/>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>python-feedgen</generator>
-<lastBuildDate>Wed, 10 Jul 2024 13:58:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jul 2024 12:36:42 +0000</lastBuildDate>
 <item>
 <title>Rigetti Computing Receives a DARPA Grant for Better Quantum Solutions for Solving Combinatorial Optimization Problems</title>
 <link>https://www.globenewswire.com/news-release/2023/10/03/2753650/0/en/Rigetti-Computing-Awarded-DARPA-IMPAQT-Contract-to-Advance-Quantum-Algorithms-for-Solving-Combinatorial-Optimization-Problems.html</link>
@@ -2299,6 +2299,78 @@
 <link>https://quantumcomputingreport.com/cma-cgm-and-pasqal-partner-to-enhance-maritime-logistics-with-quantum-computing/</link>
 <description>CMA CGM Group and Pasqal  have announced a strategic partnership to integrate quantum computing technologies into maritime and logistics operations. This collaboration includes the creation of a Quantum Computing Center of Excellence at CMA CGM’s TANGRAM innovation hub, equipped with Pasqal’s quantum processor. CMA CGM will also invest in Pasqal, underscoring the partnership’s commitment to leveraging quantum computing for enhanced efficiency in container management and overall logistics operations. Click for more.</description>
 <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>EDF, Quandela, Alice & Bob, and CNRS Collaborate on €6.1 Million ($6.542M USD) Project to Enhance Quantum Computing Energy Efficiency</title>
+<link>https://quantumcomputingreport.com/edf-quandela-alice-bob-and-cnrs-collaborate-on-e6-1-million-6-542m-usd-project-to-enhance-quantum-computing-energy-efficiency/</link>
+<description>EDF , in partnership with Quandela , Alice & Bob , and CNRS , has embarked on a groundbreaking €6.1 million ($6.542M USD) project named “Energy Optimization of Quantum Circuits” (OECQ), supported with a grant of up to €4.5 million ($4.87M USD) from France 2030 through Bpifrance. The primary objective of OECQ is to evaluate and enhance the energy efficiency of quantum computing systems in comparison to traditional high-performance computing (HPC) methods. This initiative represents a critical milestone in quantifying the energy requirements of quantum processors across real-world applications such as optimization, physical simulation, and material science. For more about this program, read our full article .</description>
+<pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Quantinuum and STFC Hartree Centre Form Strategic Partnership to Propel Quantum Innovation in the UK</title>
+<link>https://quantumcomputingreport.com/quantinuum-and-stfc-hartree-centre-form-strategic-partnership-to-propel-quantum-innovation-in-the-uk/</link>
+<description>Quantinuum  and the STFC Hartree Centre have announced a partnership to boost quantum innovation in the UK. This collaboration grants Hartree Centre access to Quantinuum’s H-Series quantum computers via the cloud and on-premise. The partnership will foster advancements in quantum chemistry, computational biology, AI, and cybersecurity, enhancing scientific research and economic growth. Click here for .</description>
+<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Zurich Instruments and Qruise Partner to Make Quantum Processor Tune-Up and Operation Easier</title>
+<link>https://quantumcomputingreport.com/zurich-instruments-and-qruise-partner-to-make-quantum-processor-tune-up-and-operation-easier/</link>
+<description>Qruise  and Zurich Instruments have announced a partnership to advance quantum computing development by integrating Qruise’s Machine Learning Physicist with Zurich Instruments’ Quantum Computing Control System . This collaboration aims to streamline quantum processor tune-up, enhancing the path to practical quantum computing. The integration combines Qruise’s automation technologies with Zurich Instruments’ control system with the recently developed SHF+ product line , enabling scalable, high-fidelity qubit control. Qruise’s software works with Zurich Instruments’ LabOne Q to facilitate high-speed sweeps, real-time signal precompensation, and parallel tune-ups. For additional information on how the Qruise software creates a digital twin of the QPU, click to view the rest of the article.</description>
+<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Iberdrola and Multiverse Computing Successfully Complete Pilot Project to Optimize Grid-Scale Battery Installation</title>
+<link>https://quantumcomputingreport.com/iberdrola-and-multiverse-computing-successfully-complete-pilot-project-to-optimize-grid-scale-battery-installation/</link>
+<description>Iberdrola , a leading clean energy company, and Multiverse Computing , a quantum computing solutions provider, have successfully completed a pilot project in northern Spain to optimize the installation of grid-scale batteries. The project, overseen by Iberdrola’s distribution company i-DE , utilized quantum and quantum-inspired algorithms to determine the optimal number, type, and locations of batteries on the electricity grid in Guipuzkoa. Over a ten month pilot period, the both quantum annealing and quantum-inspired algorithms improved grid reliability and voltage control while reducing costs compared to classical benchmarks. For additional information about this project, click for the rest of our article about it.</description>
+<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kipu Quantum Acquires Anaqor AG’s PlanQK Platform to Accelerate Creation of Quantum Solutions for Industry</title>
+<link>https://quantumcomputingreport.com/kipu-quantum-acquires-anaqor-ags-planqk-platform-to-accelerate-creation-of-quantum-solutions-for-industry/</link>
+<description>Kipu Quantum , a leading quantum software company, announced the acquisition of PlanQK , a German quantum computing platform developed by Anaqor AG , along with key team members. This strategic move follows Kipu Quantum’s €11.4 million seed funding round, enhancing their ability to provide accessible quantum computing solutions to a wide range of organizations, including industrial, academic, and governmental sectors. For additional details, read our full article .</description>
+<pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Oxford Ionics Sets New Records for Qubit Gate Fidelities</title>
+<link>https://quantumcomputingreport.com/oxford-ionics-sets-new-records-for-qubit-gate-fidelity/</link>
+<description>UK quantum hardware startup, Oxford Ionics , has released performance results from their latest prototype device showing new records for qubit gate fidelity. For single qubit gates they achieved a fidelity of 99.99916% and for two-qubit gates they achieved a fidelity of 99.97%. This is slightly better than the previous record we had seen for two-qubits gates which was 99.914% achieved in April by Quantinuum. Read our full article about Oxford Ionic’s development .</description>
+<pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Infleqtion Sells First Tiqker Quantum Clock in the UK</title>
+<link>https://static1.squarespace.com/static/63de94661981f84d0e1b9fc5/t/663975c21700dc45668ebe85/1715041731624/Tiqker+PRIME+Spec+Sheet_5-6.pdf</link>
+<description>Infleqtion has announced it has sold its super accurate Tiqker quantum clock to the University of Strathclyde in the UK. Tiqker is a cold-atom rubidium based atomic clock that provides long term frequency stability of under 5×10 -15 with low phase noise. This technology would compete with Cesium-133 beam clocks that are widely used in critical frequency standard applications. Uses of such a high accuracy frequency standard include use in navigation systems designed to operate in GPS denied environments, providing an accurate frequency reference, and timing synchronization between data centers, 6G base stations, and backbone networks. The unit is compact and fits into a 3U rack panel and weighs less than 50kg. A press release from Infleqtion announcing this delivery can be seen here . In addition, a web page describing the units can be accessed here along with a data sheet for it is available .</description>
+<pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>IQM Demonstrates Continued Improvement in Qubit Quality</title>
+<link>https://quantumcomputingreport.com/iqm-demonstrates-continued-improvement-in-qubit-quality/</link>
+<description>IQM has continued with improvements in their qubit technology and have announced new results in their qubit fidelity and qubit coherence times that are competitive with some of the very best results reported in the industry so far. Specifically, they have reports achieving qubit relaxation times (T1) of 0.964 ± 0.092, T2 echo dephasing times of 1.155 ± 0.188 milliseconds and two-qubit gate fidelities reaching 99.91% ± 0.02. The two-qubit gates were implemented as CZ gates with the measurements verified by randomized benchmarking. Click for more.</description>
+<pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>QC Design Secures €4M ($4.35M USD) Funding from EIC Accelerator for Design Automation Tools for Fault Tolerant Quantum Computing</title>
+<link>https://quantumcomputingreport.com/qc-design-secures-e4m-4-35m-usd-funding-from-eic-accelerator-for-design-automation-tools-for-fault-tolerant-quantum-computing/</link>
+<description>QC Design , a leader in quantum design automation software, has secured €4 million ($4.35 million USD) in funding through the prestigious EIC Accelerator program by the European Innovation Council. This funding aims to support the further development of their Plaquette quantum design-automation software and architectures for fault-tolerant quantum computing. Plaquette is crucial for hardware manufacturers, helping them optimize logical qubits and architectures despite imperfections in physical qubits and gates. For more about this funding, click .</description>
+<pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Infleqtion Installs a Quantum Computer at the UK’s National Quantum Computing Centre</title>
+<link>https://www.infleqtion.com/news/infleqtion-leads-the-way-with-first-quantum-computer-installation-at-nqcc</link>
+<description>Infleqtion Installs a Quantum Computer at the UK’s National Quantum Computing Centre We had reported in February that the UK government had made awards to seven companies totaling £30 million ($38.9M USD) for installation of quantum processors at the UK National Quantum Computing Centre  by March 2025. Now, Infleqtion has announced that it is the first one to deploy their installation using the company’s neutral atom quantum technology. NQCC will also be using Infleqtion’s Superstaq software and Infleqtion will also be participating in the upcoming UK Quantum Hackathon on July 22-24, 2024. For additional information, read Infleqtion’s press release posted on their website .</description>
+<pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>State of Illinois Signs Agreement with DARPA to Set Up and Fund a “Quantum Proving Ground”</title>
+<link>https://quantumcomputingreport.com/state-of-illinois-signs-agreement-with-darpa-to-set-up-a-quantum-proving-ground/</link>
+<description>The State of Illinois has signed a Memorandum of Agreement with the U.S. Defense Advanced Research Projects Agency (DARPA) to set up and provide significant funding for a campus to be named the “Quantum Proving Ground”. This site will be used for DARPA’s Quantum Benchmarking Initiative where companies will research and test quantum computer prototypes. The site is planned to have shared cryogenic facilities, equipment labs, and spaces for companies and universities to perform research and demonstrate their progress. Read our full article .</description>
+<pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Who’s News: Management Updates at QuEra, Oxford Quantum Circuits, and Nord Quantique</title>
+<link>https://quantumcomputingreport.com/whos-news-management-updates-at-quera-oxford-quantum-circuits-and-nord-quantique/</link>
+<description>QuEra has named a new Acting CEO, Oxford Quantum Circuits has added a new member to its Board of Directors, and Nord Quantique has given three individuals new roles to serve as CBO, CEO, and CTO. Click to read our report about these management changes.</description>
+<pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
